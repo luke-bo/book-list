@@ -111,4 +111,4 @@ document.getElementById('book-list').addEventListener
   ui.showAlert('Book Removed!', 'success');
 
   e.preventDefault();
-})
+});
